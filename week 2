@@ -1,0 +1,26 @@
+x=10
+
+print(x)
+
+type(x)
+
+my_string='hi how are you'
+
+print(my_string)
+
+print(type(my_string))
+
+points_obtained=20
+
+total_points=60
+
+percentage=(points_obtained/total_points)*100
+
+print(percentage)
+
+new_string="I'm a UB Student"
+
+print(new_string[0])
+print(new_string[1])
+print(new_string[-1])
+
